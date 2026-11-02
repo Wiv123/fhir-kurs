@@ -9,6 +9,7 @@
 
 ### Resource Profiles
 
+* [Min fina profil - K](StructureDefinition-EducationEncounter.md)
 * [Education Patient](StructureDefinition-EducationPatient.md)
 
 ### ImplementationGuides
